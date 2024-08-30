@@ -1,0 +1,9 @@
+---
+title: "Test"
+output: html_document
+date: "2024-08-30"
+---
+
+```{r setup, include=FALSE}
+install.packages("Rcmdr")
+```
